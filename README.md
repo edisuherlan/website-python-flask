@@ -81,5 +81,10 @@ flask db upgrade
 
 Proyek ini bersifat open-source dan bebas digunakan untuk keperluan pribadi maupun edukasi. 😊minta link unduhannya donk
 
+## 📄 Penjelesan Aplikasi ada diwebsite : 
+
+https://audhighasu.com/2025/03/16/cara-mudah-install-flask-di-laragon-untuk-pemula/
+
+
 
 
