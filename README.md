@@ -83,7 +83,7 @@ Proyek ini bersifat open-source dan bebas digunakan untuk keperluan pribadi maup
 
 ## 📄 Penjelesan Aplikasi ada diwebsite : 
 
-https://audhighasu.com/2025/03/16/cara-mudah-install-flask-di-laragon-untuk-pemula/
+[https://audhighasu.com/2025/03/16/cara-mudah-install-flask-di-laragon-untuk-pemula/](https://audhighasu.com/2025/03/16/seri-2-web-dengan-flask-aplikasi-flask-dengan-sqlite-dan-bootstrap/)
 
 
 
